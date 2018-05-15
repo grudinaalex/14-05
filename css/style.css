@@ -1,0 +1,38 @@
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+  background: #f8f9fb;
+  color: #60d1d3;
+  border-bottom: 3px solid #60d1d3; }
+
+.navbar-default {
+  height: 100px; }
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  padding-top: 25px; }
+
+.navbar-brand > img {
+  padding-top: 15px; }
+
+.container-fluid {
+  padding-top: 25px;
+  margin-bottom: 100px; }
+  .container-fluid h1 {
+    padding-bottom: 45px;
+    padding-top: 10px; }
+  .container-fluid p {
+    padding-bottom: 55px; }
+  .container-fluid .link {
+    border: 1px solid white;
+    border-radius: 2px;
+    padding: 10px;
+    color: white; }
+
+.carousel-caption {
+  margin-bottom: 215px; }
+
+.row .round-1, .row .round-2, .row .round-3, .row .round-4 {
+  width: 200px;
+  height: 200px;
+  background: #eeeef0;
+  border-radius: 100%; }
+
+/*# sourceMappingURL=style.css.map */
